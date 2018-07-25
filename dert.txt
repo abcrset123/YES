@@ -1,0 +1,1 @@
+"clone" is a simple command. We only need to pass it a link to the GitHub project. We've used an SSH link, but you can use the HTTPS link with the same command.
